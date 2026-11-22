@@ -1,7 +1,7 @@
 
 import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import users from '../../Data/users'
+import users from '../../Data/users.js'
 import Logo from '../../Assets/Logo.jpg'
 import './Login.css'
 

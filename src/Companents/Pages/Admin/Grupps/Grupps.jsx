@@ -16,7 +16,7 @@ import {
   AlertCircle
 } from 'lucide-react'
 
-import users from '../../../Data/users'
+import users from '../../../Data/users.js'
 import './Grupps.css'
 
 const GROUPS_KEY = 'groups'
