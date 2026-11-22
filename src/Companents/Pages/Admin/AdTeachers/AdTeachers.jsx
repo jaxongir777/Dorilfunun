@@ -14,7 +14,7 @@ import {
   Eye,
   EyeOff
 } from 'lucide-react'
-import './AdTeachers.css'
+import './Adteachers.css'
 
 const TEACHERS_KEY = 'teachers'
 
